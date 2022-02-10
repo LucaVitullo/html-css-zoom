@@ -6,6 +6,7 @@
 }
 header {
   background-color: black;
+  height: 10vh;
 }
 body {
   background-color: black;
@@ -53,9 +54,8 @@ body {
 }
 
 .nav-footer {
-  height: 88px;
-  background-color: #726f6f;
-  margin-top: 20px;
+  height: 10vh;
+  background-color: #494949;
 }
 
 .button i {
