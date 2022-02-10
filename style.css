@@ -4,12 +4,14 @@
   margin: 0;
   font-family: sans-serif;
 }
+
+body {
+  background-color: black;
+}
+
 header {
   background-color: black;
   height: 10vh;
-}
-body {
-  background-color: black;
 }
 
 .icon-top {
@@ -40,7 +42,7 @@ body {
   width: calc(100% / 7 - 8px);
   height: calc(100% / 5 - 10px);
   margin-bottom: 10px;
-  background-image: url(img/1006-3000x2000.jpg);
+  background-image: url(img/1025-4951x3301.jpg);
   background-size: cover;
   flex-direction: row-reverse;
   align-items: flex-end;
@@ -88,14 +90,13 @@ body {
   color: red;
 }
 
-
-footer .button{
-    flex-direction: column;
-    justify-items: center;
-    justify-content: center;
-    margin: 10px;
+footer .button {
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+  margin: 10px;
 }
 
-footer .fas{
-    text-align: center;
+footer .fas {
+  text-align: center;
 }
